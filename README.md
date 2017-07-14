@@ -11,9 +11,10 @@ As I seek to make beautiful designs come alive into Code format Foor Order Traki
 
 this code is inspired from the works of [Dual Pixel™](https://www.uplabs.com/idualpixel)
 
+![Alt text](https://github.com/chawkiAmrouche/FoodOrderTraking/blob/master/preview.jpg)
+
 ![Alt text](https://github.com/chawkiAmrouche/FoodOrderTraking/blob/master/TrackOrders.png)
   
-![Alt text](https://github.com/chawkiAmrouche/FoodOrderTraking/blob/master/preview.jpg)
 ## Libraries
 
 in this project was realised using:
