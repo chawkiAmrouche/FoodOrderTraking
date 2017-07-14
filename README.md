@@ -13,8 +13,7 @@ this code is inspired from the works of [Dual Pixel™](https://www.uplabs.com/i
 
 ![Alt text](https://github.com/chawkiAmrouche/FoodOrderTraking/blob/master/preview.jpg)
 
-![Alt text](https://github.com/chawkiAmrouche/FoodOrderTraking/blob/master/TrackOrders.png)
-  
+   
 ## Libraries
 
 in this project was realised using:
