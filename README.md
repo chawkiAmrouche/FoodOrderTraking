@@ -4,8 +4,9 @@
 Android implementation of Food Order Traking App concept
 
 ##Donation
-[![paypal](https://github.com/chawkiAmrouche/FoodOrderTraking/blob/master/pp258.png)](important.chawki@gmail.com)
 
+
+ 
 ## motivation
 
 As I seek to make beautiful designs come alive into Code format Foor Order Traking App design is the first ste in many coming creative designs
