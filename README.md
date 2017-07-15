@@ -3,9 +3,6 @@
 
 Android implementation of Food Order Traking App concept
 
-##Donation
-
-
  
 ## motivation
 
